@@ -1,1 +1,3 @@
-![Frame 153](https://user-images.githubusercontent.com/109000119/190901812-014ba714-7463-4e60-9631-6bd5e4846625.png)
+This is my repository dedicated to the implementation of machine learning algorithms. Also in this repository there will be solutions to machine learning problems, for example from kaggle.com. ☕
+
+![Frame 153](https://user-images.githubusercontent.com/109000119/190901896-200f5cd7-cfbd-42c1-baa7-98d219385f39.png)

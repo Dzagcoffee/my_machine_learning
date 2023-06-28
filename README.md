@@ -17,7 +17,7 @@
 
 ## Deep learning
 - NLP Transformer - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/Transformer_NLP/Transformer_NLP.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)
-- Seq2Seq - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/basic_seq_to_seq/seq_to_seq.ipynb)
+- Seq2Seq - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/basic_seq_to_seq/seq_to_seq.ipynb), [paper](https://arxiv.org/pdf/1409.3215.pdf)
 - Seq2Seq with attention - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/basic_seq_to_seq/seq_to_seq_with_attention.ipynb), [paper](https://arxiv.org/pdf/1409.0473.pdf)
 - MNIST from scratch- [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/MNIST_from_scratch.ipynb)
 - MNIST PyTorch - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/PyTorch_MNIST.ipynb)

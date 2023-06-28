@@ -6,14 +6,14 @@
 - Linear classification (SVM) - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/linear_models/linear_classification_SVM.ipynb)
 
 ### Decision trees
-- decision trees regression - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/decision_trees/decision_tree_regression.ipynb)
-- decision trees classification - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/decision_trees/decision_tree_classification.ipynb)
+- Decision trees regression - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/decision_trees/decision_tree_regression.ipynb)
+- Decision trees classification - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/decision_trees/decision_tree_classification.ipynb)
 
 ### Ensembles
 - GBDT - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/GBDT.ipynb)
-- bagging regression - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/bagging_regression.ipynb)
-- bagging regression with graphs - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/bagging_regression_with_graphs.ipynb)
-- random forest classification - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/random_forest_classification.ipynb)
+- Bagging regression - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/bagging_regression.ipynb)
+- Bagging regression with graphs - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/bagging_regression_with_graphs.ipynb)
+- Random forest classification - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/random_forest_classification.ipynb)
 
 ## Deep learning
 - NLP Transformer - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/Transformer_NLP/Transformer_NLP.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)

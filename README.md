@@ -16,6 +16,7 @@
 - Random forest classification - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/classical_ML/ensembles/random_forest_classification.ipynb)
 
 ## Deep learning
+- BERT - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/BERT/BERT.ipynb), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 - NLP Transformer - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/Transformer_NLP/Transformer_NLP.ipynb), [paper](https://arxiv.org/pdf/1706.03762.pdf)
 - Seq2Seq - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/basic_seq_to_seq/seq_to_seq.ipynb), [paper](https://arxiv.org/pdf/1409.3215.pdf)
 - Seq2Seq with attention - [.ipynb notebook](https://github.com/Dzagcoffee/my_machine_learning/blob/main/ML_from_scratch/deep_learning/basic_seq_to_seq/seq_to_seq_with_attention.ipynb), [paper](https://arxiv.org/pdf/1409.0473.pdf)
